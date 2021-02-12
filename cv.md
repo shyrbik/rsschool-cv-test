@@ -16,9 +16,17 @@ Want to change my profession and grow in Front End direction.
 
 <h2>My English</h2>
 <p>My English level is B1. I take private English lessons twice a week. 
+ 
+ 
 <!--
 Имя и фамилия<p>
 Контакты для связи
+
+wefiwefijefijeifjeijfijeijiefije
+wefijweifjiejfijefi
+wjfefjeifjeifj
+ofeeofkefo
+
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём 
 стремлении и способности быстро учиться и узнавать новое)
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)

@@ -4,6 +4,7 @@
 <h2>Contacts</h2>
 <p>Skype: shyrbik
 <p>Viber / Telegramm : +375298625646
+ <p>Phone number: +375298625646 MTS
 <p>E-mail: shyrbik@gmail.com
  
 <h2>About me</h2>

@@ -1,4 +1,3 @@
-тут будет CV
 <h2>Name and Surname</h2>
 <p>Aliaksandr Rumiantsau
 <h2>Contacts</h2>
@@ -53,7 +52,8 @@ https://volunteers.minsk2019.by/
 https://flame-of-peace.minsk2019.by/
 ASO мобильных приложений в Google Play и Apple Store
 Настройка и ведение контекстно-медийных кампаний в Google Adwords и Яндекс.Директ
-…
+…dvdvdvdvd
+vdvdvdvvddv
 См. еще
 Студия веб дизайна Silentcode
 Руководитель отдела поискового продвижения

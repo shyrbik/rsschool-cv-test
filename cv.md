@@ -17,7 +17,6 @@ Want to change my profession and grow in Front End direction.
 <br />
 
 ## My code
-<br />
 ```
  obj = [{state: 'Maine', capital: 'Augusta'}, {state: '11111', capital: '2222'}];
  arrResult = [];
@@ -32,7 +31,7 @@ Want to change my profession and grow in Front End direction.
  ```
 
 ## My English
-<br />My English level is B1. I take private English lessons twice a week. 
+<br />My English level is B1. 
  
  
 <!--

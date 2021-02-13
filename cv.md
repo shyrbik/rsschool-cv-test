@@ -5,7 +5,7 @@
 
 1. Skype: 11111111
 2. Viber / Telegramm : +37511111111
-3. Phone number: +37511111111 MTS
+3. Phone number: +375113232111111 MTS
 4. E-mail: 11111111@gmail.com
 
 ## About me

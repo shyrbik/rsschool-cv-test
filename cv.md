@@ -22,9 +22,7 @@ Want to change my profession and grow in Front End direction.
 Контакты для связи
 
 wefiwefijefijeifjeijfijeijiefije
-wefijweifjiejfijefi
-wjfefjeifjeifj
-ofeeofkefo
+wwwewewefewffwe feewfwe
 
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём 
 стремлении и способности быстро учиться и узнавать новое)
